@@ -4,7 +4,7 @@ using Avalonia.Markup.Xaml;
 
 namespace ScottPlot.Demo.Avalonia
 {
-    public class AboutControl : UserControl
+    public partial class AboutControl : UserControl
     {
         public AboutControl()
         {
